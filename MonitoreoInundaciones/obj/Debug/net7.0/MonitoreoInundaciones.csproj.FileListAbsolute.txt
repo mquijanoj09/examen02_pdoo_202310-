@@ -1,0 +1,15 @@
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/bin/Debug/net7.0/MonitoreoInundaciones
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/bin/Debug/net7.0/MonitoreoInundaciones.deps.json
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/bin/Debug/net7.0/MonitoreoInundaciones.runtimeconfig.json
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/bin/Debug/net7.0/MonitoreoInundaciones.dll
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/bin/Debug/net7.0/MonitoreoInundaciones.pdb
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/MonitoreoInundaciones.csproj.AssemblyReference.cache
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/MonitoreoInundaciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/MonitoreoInundaciones.AssemblyInfoInputs.cache
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/MonitoreoInundaciones.AssemblyInfo.cs
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/MonitoreoInundaciones.csproj.CoreCompileInputs.cache
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/MonitoreoInundaciones.dll
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/refint/MonitoreoInundaciones.dll
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/MonitoreoInundaciones.pdb
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/MonitoreoInundaciones.genruntimeconfig.cache
+/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/Debug/net7.0/ref/MonitoreoInundaciones.dll
