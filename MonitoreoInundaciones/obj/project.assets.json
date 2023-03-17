@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/MonitoreoInundaciones.csproj",
+      "projectUniqueName": "/Users/mquijanoj/Projects/examen02_pdoo_202310-/MonitoreoInundaciones/MonitoreoInundaciones.csproj",
       "projectName": "MonitoreoInundaciones",
-      "projectPath": "/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/MonitoreoInundaciones.csproj",
+      "projectPath": "/Users/mquijanoj/Projects/examen02_pdoo_202310-/MonitoreoInundaciones/MonitoreoInundaciones.csproj",
       "packagesPath": "/Users/mquijanoj/.nuget/packages/",
-      "outputPath": "/Users/mquijanoj/Projects/MonitoreoInundaciones/MonitoreoInundaciones/obj/",
+      "outputPath": "/Users/mquijanoj/Projects/examen02_pdoo_202310-/MonitoreoInundaciones/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mquijanoj/.nuget/NuGet/NuGet.Config"
