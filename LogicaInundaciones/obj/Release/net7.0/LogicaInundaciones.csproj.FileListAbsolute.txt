@@ -1,0 +1,5 @@
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/LogicaInundaciones/obj/Release/net7.0/LogicaInundaciones.csproj.AssemblyReference.cache
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/LogicaInundaciones/obj/Release/net7.0/LogicaInundaciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/LogicaInundaciones/obj/Release/net7.0/LogicaInundaciones.AssemblyInfoInputs.cache
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/LogicaInundaciones/obj/Release/net7.0/LogicaInundaciones.AssemblyInfo.cs
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/LogicaInundaciones/obj/Release/net7.0/LogicaInundaciones.csproj.CoreCompileInputs.cache

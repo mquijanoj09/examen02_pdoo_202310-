@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "MonitoreoInundaciones/1.0.0": {
+        "dependencies": {
+          "LogicaInundaciones": "1.0.0"
+        },
         "runtime": {
           "MonitoreoInundaciones.dll": {}
+        }
+      },
+      "LogicaInundaciones/1.0.0": {
+        "runtime": {
+          "LogicaInundaciones.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MonitoreoInundaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaInundaciones/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,4 +1,5 @@
 ﻿using System;
+using LogicaInundaciones;
 
 namespace MonitoreoInundaciones
 {
@@ -31,6 +32,9 @@ namespace MonitoreoInundaciones
             }
             while (cantidadZonasCorrecta == false);
 
+            Monitoreador misTerr = new Monitoreador(cantidadZonas);
+            Console.WriteLine( misTerr.VisualizaContenidoZonas());
+            Console.ReadLine();
 
         }
     }

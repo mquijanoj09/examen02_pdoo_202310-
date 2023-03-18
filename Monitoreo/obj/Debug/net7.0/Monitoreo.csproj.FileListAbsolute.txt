@@ -1,0 +1,5 @@
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/Monitoreo/obj/Debug/net7.0/Monitoreo.csproj.AssemblyReference.cache
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/Monitoreo/obj/Debug/net7.0/Monitoreo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/Monitoreo/obj/Debug/net7.0/Monitoreo.AssemblyInfoInputs.cache
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/Monitoreo/obj/Debug/net7.0/Monitoreo.AssemblyInfo.cs
+/Users/mquijanoj/Projects/examen02_pdoo_202310-/Monitoreo/obj/Debug/net7.0/Monitoreo.csproj.CoreCompileInputs.cache
