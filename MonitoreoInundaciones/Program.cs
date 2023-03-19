@@ -33,9 +33,12 @@ namespace MonitoreoInundaciones
             while (cantidadZonasCorrecta == false);
 
             Monitoreador misTerr = new Monitoreador(cantidadZonas);
-            Console.WriteLine( misTerr.VisualizaContenidoZonas());
-            Console.ReadLine();
+            Console.WriteLine(misTerr.VisualizaContenidoZonas());
 
+            Console.WriteLine(misTerr.ObtienePocentajeZonasPorTipo());
+
+            Console.WriteLine(misTerr.ObtienePocentajeRiesgosPorTipo());
+            Console.ReadLine();
         }
     }
 }

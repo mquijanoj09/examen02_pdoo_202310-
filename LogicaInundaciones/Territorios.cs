@@ -31,17 +31,47 @@
             ObtieneTipoInundacion();
         }
 
+        public string GetTipoZona()
+        {
+            return tipoZona;
+        }
+
+        public void SetTipoZona(string tipoZona)
+        {
+            this.tipoZona = tipoZona;
+        }
+
+        public bool GetEstaEnRiesgo()
+        {
+            return estaEnRiesgo;
+        }
+
+        public void SetEstaEnRiesgo(bool estaEnRiesgo)
+        {
+            this.estaEnRiesgo = estaEnRiesgo;
+        }
+
+        public string GetTipoInundacion()
+        {
+            return tipoInundacion;
+        }
+
+        public void SetTipoInundacion(string tipoInundacion)
+        {
+            this.tipoInundacion = tipoInundacion;
+        }
+
         public void ObtieneTipoZona(int totalHabitantes)
         {
-            if (totalHabitantes > 200000)
-                tipoZona = "Urbana";
+            if (totalHabitantes > 500000)
+                 tipoZona = "Urbana";
             else
-                tipoZona = "Rural";
+                 tipoZona = "Rural";
         }
 
         public void ObtieneTipoUbicacion(int nivelDelMar)
         {
-            if (nivelDelMar > 1000)
+            if (nivelDelMar > 500)
                 tipoUbicacion = "Montañosa";
             else
                 tipoUbicacion = "Costera";
@@ -68,53 +98,12 @@
 
         }
 
-        public int GetNivelDelMar()
-        {
-            return nivelDelMar;
-        }
-
-        public void SetNivelDelMar(int nivelDelMar)
-        {
-            this.nivelDelMar = nivelDelMar;
-        }
-
-        public int GetAreas()
-        {
-            return areas;
-        }
-
-        public void SetAreas(int areas)
-        {
-            this.areas = areas;
-        }
-
-        public int GetTotalHabitantes()
-        {
-            return totalHabitantes;
-        }
-
-        public void SetTotalHabitantes(int totalHabitantes)
-        {
-            this.totalHabitantes = totalHabitantes;
-        }
-
-        public int GetDistanciaRiosPrinciles()
-        {
-            return distanciaRiosPrinciles;
-        }
-
-        public void SetDistanciaRiosPrinciles(int distanciaRiosPrinciles)
-        {
-            this.distanciaRiosPrinciles = distanciaRiosPrinciles;
-        }
-
         public override string ToString()
         {
-            string resultado = $"Zona {tipoZona}, ubicacion: {tipoUbicacion}, area: {areas}, " +
-                $"densidad poblacional {(totalHabitantes / areas)}, esta en riesgo: {estaEnRiesgo}, ";
-
+            string resultado = $"Zona: {tipoZona}, ubicacion: {tipoUbicacion}, area: {areas}, " +
+                $"densidad poblacional: {(totalHabitantes / areas)}, ";
             if (estaEnRiesgo)
-                resultado += $"Inundacion: {tipoInundacion}";
+                resultado += $"esta en riesgo, inundacion: {tipoInundacion}";
             else
                 resultado += "No esta en riesgo";
             return resultado;
